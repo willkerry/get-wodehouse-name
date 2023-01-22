@@ -1,3 +1,4 @@
+A tiny package that returns P.G. Wodehouse character names.
 ## Installation
 
 ```
