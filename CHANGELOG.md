@@ -1,5 +1,11 @@
 # get-wodehouse-name
 
+## 0.1.4
+
+### Patch Changes
+
+- fd2804d: Add release scripot
+
 ## 0.1.3
 
 ### Patch Changes
