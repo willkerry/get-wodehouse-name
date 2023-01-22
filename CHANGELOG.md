@@ -1,5 +1,11 @@
 # get-wodehouse-name
 
+## 0.1.5
+
+### Patch Changes
+
+- 95c723c: Make access public
+
 ## 0.1.4
 
 ### Patch Changes
