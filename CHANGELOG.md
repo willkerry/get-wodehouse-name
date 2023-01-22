@@ -1,5 +1,12 @@
 # get-wodehouse-name
 
+## 0.1.3
+
+### Patch Changes
+
+- 6df5456: Add README
+- 02af579: Fix publish workflow
+
 ## 0.1.2
 
 ### Patch Changes
