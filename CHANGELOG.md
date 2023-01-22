@@ -1,5 +1,11 @@
 # get-wodehouse-name
 
+## 0.1.2
+
+### Patch Changes
+
+- d2a9fe8: Fix actions
+
 ## 0.1.1
 
 ### Patch Changes
