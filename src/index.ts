@@ -273,7 +273,7 @@ const getRandomName = () => {
 };
 
 const formatEmail = (name: Name) => {
-  return `${name[0].toLowerCase()}}@${name[1].toLowerCase()}.com`;
+  return `${name[0].toLowerCase()}@${name[1].toLowerCase()}.com`;
 };
 
 /**
