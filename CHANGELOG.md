@@ -1,5 +1,11 @@
 # get-wodehouse-name
 
+## 0.1.7
+
+### Patch Changes
+
+- df7c535: Remove stray brace
+
 ## 0.1.6
 
 ### Patch Changes
