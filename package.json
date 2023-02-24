@@ -8,6 +8,7 @@
   },
   "description": "A tiny package that returns P.G. Wodehouse character names.",
   "repository": "https://github.com/willkerry/get-wodehouse-name",
+  "homepage": "https://willkerry.github.io/get-wodehouse-name/",
   "bugs": {
     "url": "https://github.com/willkerry/get-wodehouse-name/issues/",
     "email": "npm@willkerry.com"
