@@ -1,7 +1,17 @@
 {
   "name": "get-wodehouse-name",
-  "license": "MIT",
   "version": "0.1.7",
+  "license": "MIT",
+  "author": {
+    "name": "Will Kerry",
+    "email": "npm@willkerry.com"
+  },
+  "description": "A tiny package that returns P.G. Wodehouse character names.",
+  "repository": "https://github.com/willkerry/get-wodehouse-name",
+  "bugs": {
+    "url": "https://github.com/willkerry/get-wodehouse-name/issues/",
+    "email": "npm@willkerry.com"
+  },
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
