@@ -1,5 +1,11 @@
 # get-wodehouse-name
 
+## 0.1.8
+
+### Patch Changes
+
+- e994b4b: Add package.json metadata
+
 ## 0.1.7
 
 ### Patch Changes
