@@ -1,5 +1,17 @@
 # get-wodehouse-name
 
+## 0.2.0
+
+### Minor Changes
+
+- ca0dde7: Refactor package structure
+- ca0dde7: Minify build output
+
+### Patch Changes
+
+- 0c9cbdd: Upgrades devDependencies
+- 87f29c0: Adds a homepage to package.json
+
 ## 0.1.8
 
 ### Patch Changes
