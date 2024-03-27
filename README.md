@@ -65,3 +65,18 @@ const details = getWodehouseFullDetails();
 //        email: 'bertie@wooster.com'
 //      }
 ```
+
+### `getCompositeWodehouseFullDetails()`
+
+Returns an object containing the first name of one character from the works of P.G. Wodehouse, the last name of another and an email address formed from the two. Useful for generating test data.
+
+```js
+import { getCompositeWodehouseFullDetails } from 'get-wodehouse-name';
+
+const details = getCompositeWodehouseFullDetails();
+//    ^ {
+//        firstName: 'Bertie',
+//        lastName: 'Bassington-Bassington',
+//        email: 'bertie@bassington-bassington.com'
+//      }
+```

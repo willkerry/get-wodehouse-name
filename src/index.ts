@@ -72,3 +72,23 @@ export const getWodehouseFullDetails = () => {
     email: formatEmail(name),
   };
 };
+
+/**
+ * Get the 'full details' of a composite Wodehouse character, whose first name is a random Wodehouse
+ * first name and whose last name is a random Wodehouse last name
+ *
+ * @returns An object containing the first name of a Wodehouse character, the last name of a Wodehouse
+ * character and an email address combining the two
+ * @example
+ * ```
+ * const compositeWodehouseDetails = getCompositeWodehouseFullDetails();
+ * //=> { firstName: "Bertie", lastName: "Bassington-Bassington", email: "bertie@bassington-bassington.com" }
+ * ```
+ */
+export const getCompositeWodehouseFullDetails = () => {
+  const firstName = getWodehouseFirstName();
+  const lastName = getWodehouseLastName();
+  const email = formatEmail([firstName, lastName]);
+
+  return { firstName, lastName, email };
+};

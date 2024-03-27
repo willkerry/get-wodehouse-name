@@ -1,5 +1,12 @@
 # get-wodehouse-name
 
+## 0.3.0
+
+### Minor Changes
+
+- Update build tools
+- Add `getCompositeWodehouseFullDetails`
+
 ## 0.2.0
 
 ### Minor Changes
