@@ -1,5 +1,11 @@
 # get-wodehouse-name
 
+## 0.3.1
+
+### Patch Changes
+
+- c21ac9f: Use array destructuring to slightly reduce weight of `formatEmail()`
+
 ## 0.3.0
 
 ### Minor Changes
