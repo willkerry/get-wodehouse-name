@@ -266,4 +266,4 @@ export const NAMES: Name[] = [
   ["Algy", "Wymondham-Wymondham"],
   ["Jane", "Yorke"],
   ["Leila", "Yorke"],
-];
+] as const;
